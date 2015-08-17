@@ -30,7 +30,7 @@ Juno es un IDE ( Entorno de Desarrollo Integrado, “ Integrated Development Env
 
 ##
 
-Primero necesitaras instalar IPython. [Actualmente las partes de Ipython que no se relacionan directamente con Python se están separando en un paquete llamdo Jupyter.] La manera mas sencilla de hacer esto es instalar la distribución gratuita de [Anaconda](http://continuum.io/downloads), la cual incluye Ipython, la librería de graficación `matplotlib`, y varios paquetes útiles de Python.
+Primero necesitaras instalar IPython. [Actualmente las partes de Ipython que no se relacionan directamente con Python se están separando en un paquete llamdo Jupyter.] La manera mas sencilla de hacer esto es instalar la distribución gratuita de [Anaconda](http://continuum.io/downloads), la cual incluye IPython, la librería de graficación `matplotlib`, y varios paquetes útiles de Python.
 
 Si prefieres algo mas ligero, puedes usar `pip` ( un instalador de paquetes de Python ):
 
@@ -49,12 +49,12 @@ export LANG=en_US.UTF-8
 ```
 al archivo `.bash_profile` el cual está en tu directorio “home” ( si este archivo no existe entonces necesitaras crearlo con esas dos lineas como contenido ).
 
-## Instando Ijulia
+## Instando IJulia
 
-Una vez que Ipython notebook este instalado, corre Julia en una terminal y desde Julia añade el paquete “Ijulia”, esto lo haces así:
+Una vez que Ipython notebook este instalado, corre Julia en una terminal y desde Julia añade el paquete “IJulia”, esto lo haces así:
 
 
 ```julia
 Pkg.add("IJulia")
 ```
-Después de que varias cosas se hayan instalado, se debería de ver un mensaje de que Julia exitosamente encontró tu instalación de Ipython y que se han creado todos los archivos necesarios.
+Después de que varias cosas se hayan instalado, se debería de ver un mensaje de que Julia exitosamente encontró tu instalación de IPython y que se han creado todos los archivos necesarios.
