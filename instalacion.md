@@ -37,7 +37,7 @@ Si prefieres algo mas ligero, puedes usar `pip` ( un instalador de paquetes de P
 ```
 pip install --upgrade ipython[all]
 ```
-En Ubunto, primero necesitas ejecutar: 
+En Ubuntu, primero necesitas ejecutar: 
 ```
 sudo apt-get install python-dev
 sudo apt-get install python-pip
