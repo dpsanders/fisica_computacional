@@ -11,4 +11,4 @@ un solo nombre y un apellido sin acentos ni letras raras, por ejemplo: `tarea01_
 Mandar el `.zip` al correo "bvillasen@gmail.com", el subject (asunto) del mensaje deberá de ser: tarea01_nombre_apellido
 
 Si no saben como comprimir el archivo, entonces pregúntenselo a Google:
-"how to compress zip ubuntu "
+"how to compress zip ubuntu " 
