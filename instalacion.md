@@ -58,3 +58,4 @@ Una vez que Ipython notebook este instalado, corre Julia en una terminal y desde
 Pkg.add("IJulia")
 ```
 Después de que varias cosas se hayan instalado, se debería de ver un mensaje de que Julia exitosamente encontró tu instalación de IPython y que se han creado todos los archivos necesarios.
+ 
