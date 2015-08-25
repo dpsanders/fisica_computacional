@@ -4,5 +4,8 @@
 
 En este repositorio pondremos los materiales para el curso de Física Computacional del semestre 2016-1.
 
-Profesor: Dr. David P. Sanders  (dpsanders@ciencias.unam.mx)
+Profesor: Dr. David P. Sanders  (`dpsanders@ciencias.unam.mx`)
 
+Ayudantes:
+1. Bruno Villaseñor: `bvillasen@gmail.com`
+2. Rodrigo Leal: `rodrigolealc@ciencias.unam.mx`
