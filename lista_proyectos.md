@@ -27,7 +27,6 @@
 -Santiago Prado
 
 "Simulación de N-Cuerpos usando arboles"
--Evelyn Camacho
 -Ilya Sandoval
 -Blas Kolic
 
@@ -38,3 +37,7 @@
 "Método de Shooting: Aplicaciones"
 -Diego Domínguez
 -Rodrigo Fritz
+
+"Soluciones de la ecuación de Shrödinger para paquetes de onda Gaussianos en 1D y 2D; Experimento de la doble rendija 2D."
+-Evelyn Camacho
+-Jorge Alejandro Amador
