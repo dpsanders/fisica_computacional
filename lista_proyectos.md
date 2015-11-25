@@ -41,3 +41,7 @@
 "Soluciones de la ecuación de Shrödinger para paquetes de onda Gaussianos en 1D y 2D; Experimento de la doble rendija 2D."
 -Evelyn Camacho
 -Jorge Alejandro Amador
+
+"Simulación de un flujo en un canal"
+-Claudio Pierard
+-Fernando Aguila
