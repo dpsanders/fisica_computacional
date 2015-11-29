@@ -34,6 +34,7 @@ Las presentaciones de los proyectos finales se llevarán a cabo el **miércoles 
 
 - "Simulación de N-Cuerpos usando arboles"
 -Ilya Sandoval
+-Dalia Gutiérrez
 -Blas Kolic
 
 - "Un Método de Diferencias Finitas Aplicado a las Ecuaciones de Navier-Stokes en 2D"
@@ -51,3 +52,6 @@ Las presentaciones de los proyectos finales se llevarán a cabo el **miércoles 
 - "Simulación de un flujo en un canal"
 -Claudio Pierard
 -Fernando Aguila
+
+- "Modelo de Ising en 2D-"
+-Miguel Raz
