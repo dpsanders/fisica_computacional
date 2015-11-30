@@ -4,6 +4,7 @@ Las presentaciones de los proyectos finales se llevarán a cabo el **miércoles 
 
 
 # Lista de proyectos
+
 - "Método de Numerov para la ec. de Schrödinger."
 -Uriel Luviano
 -David Amaro
@@ -41,10 +42,6 @@ Las presentaciones de los proyectos finales se llevarán a cabo el **miércoles 
 -Guillermo Lara
 -Edna Ruiz
 
-- "Método de Shooting: Aplicaciones"
--Diego Domínguez
--Rodrigo Fritz
-
 - "Soluciones de la ecuación de Shrödinger para paquetes de onda Gaussianos en 1D y 2D; Experimento de la doble rendija 2D."
 -Evelyn Camacho
 -Jorge Alejandro Amador
@@ -53,5 +50,16 @@ Las presentaciones de los proyectos finales se llevarán a cabo el **miércoles 
 -Claudio Pierard
 -Fernando Aguila
 
-- "Modelo de Ising en 2D-"
+- "Modelo de Ising en 2D"
 -Miguel Raz
+
+# Proyectos con fecha asignada
+## Miercoles 9
+- "Método de Shooting: Aplicaciones"
+-Diego Domínguez
+-Rodrigo Fritz
+
+## Jueves 10
+
+
+
