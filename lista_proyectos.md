@@ -20,11 +20,6 @@ Las presentaciones de los proyectos finales se llevarán a cabo el **miércoles 
 - "Estudio de las ecuaciones de Lotka-Volterra."
 -Gabriela Luna
 
-- "Simulación de un Slinky."
--Chistian Ladrón de Guevara
--Antonio Galeote 
--Nicolás Diaz
-
 - "Plegamiento de proteínas en 2D usando Monte Carlo."
 -Sofía Cruz
 -Daniel Martínez Urrieta
@@ -54,12 +49,20 @@ Las presentaciones de los proyectos finales se llevarán a cabo el **miércoles 
 -Miguel Raz
 
 # Proyectos con fecha asignada
-## Miercoles 9
+## Miercoles 9 ( de 10 a 13 horas )
 - "Método de Shooting: Aplicaciones"
 -Diego Domínguez
 -Rodrigo Fritz
 
-## Jueves 10
+- "Un Método de Diferencias Finitas Aplicado a las Ecuaciones de Navier-Stokes en 2D"
+-Guillermo Lara
+-Edna Ruiz
+
+## Jueves 10 ( de 16 a 19 horas )
+- "Simulación de un Slinky."
+-Chistian Ladrón de Guevara
+-Antonio Galeote 
+-Nicolás Diaz
 
 
 
