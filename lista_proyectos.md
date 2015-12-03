@@ -13,10 +13,6 @@ Las presentaciones de los proyectos finales se llevarán a cabo el **miércoles 
 -Ivan Galinsky
 -Carlos Gael Ortiz 
 
-- "Análisis de soluciones a la ec. de Burgers."
--Diego Martinez Cara 
--Micaela Raga
-
 - "Estudio de las ecuaciones de Lotka-Volterra."
 -Gabriela Luna
 
@@ -64,5 +60,7 @@ Las presentaciones de los proyectos finales se llevarán a cabo el **miércoles 
 -Antonio Galeote 
 -Nicolás Diaz
 
-
+- "Análisis de soluciones a la ec. de Burgers."
+-Diego Martinez Cara 
+-Micaela Raga
 
