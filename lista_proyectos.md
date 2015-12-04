@@ -9,9 +9,7 @@ Las presentaciones de los proyectos finales se llevarán a cabo el **miércoles 
 -Uriel Luviano
 -David Amaro
 
-- "Simulación electrostática en 1D; Aparición de ondas de plasma."
--Ivan Galinsky
--Carlos Gael Ortiz 
+
 
 - "Estudio de las ecuaciones de Lotka-Volterra."
 -Gabriela Luna
@@ -64,3 +62,6 @@ Las presentaciones de los proyectos finales se llevarán a cabo el **miércoles 
 -Claudio Pierard
 -Fernando Aguila
 
+- "Simulación electrostática en 1D; Aparición de ondas de plasma."
+-Ivan Galinsky
+-Carlos Gael Ortiz 
