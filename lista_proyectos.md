@@ -33,10 +33,6 @@ Las presentaciones de los proyectos finales se llevarán a cabo el **miércoles 
 -Evelyn Camacho
 -Jorge Alejandro Amador
 
-- "Simulación de un flujo en un canal"
--Claudio Pierard
--Fernando Aguila
-
 - "Modelo de Ising en 2D"
 -Miguel Raz
 
@@ -63,3 +59,8 @@ Las presentaciones de los proyectos finales se llevarán a cabo el **miércoles 
 - "Plegamiento de proteínas en 2D usando Monte Carlo."
 -Sofía Cruz
 -Daniel Martínez Urrieta
+
+- "Simulación de un flujo en un canal"
+-Claudio Pierard
+-Fernando Aguila
+
