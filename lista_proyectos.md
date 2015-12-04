@@ -16,10 +16,6 @@ Las presentaciones de los proyectos finales se llevarán a cabo el **miércoles 
 - "Estudio de las ecuaciones de Lotka-Volterra."
 -Gabriela Luna
 
-- "Plegamiento de proteínas en 2D usando Monte Carlo."
--Sofía Cruz
--Daniel Martínez Urrieta
-
 - "Succesive Over Relaxation Method para resolver distintos casos de la ecuación de Poisson en 3D y 2D."
 -Pedro Mercado
 -Santiago Prado
@@ -64,3 +60,6 @@ Las presentaciones de los proyectos finales se llevarán a cabo el **miércoles 
 -Diego Martinez Cara 
 -Micaela Raga
 
+- "Plegamiento de proteínas en 2D usando Monte Carlo."
+-Sofía Cruz
+-Daniel Martínez Urrieta
