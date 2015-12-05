@@ -7,9 +7,6 @@ Las presentaciones de los proyectos finales se llevarán a cabo el **miércoles 
 
 
 
-- "Estudio de las ecuaciones de Lotka-Volterra."
--Gabriela Luna
-
 - "Succesive Over Relaxation Method para resolver distintos casos de la ecuación de Poisson en 3D y 2D."
 -Pedro Mercado
 -Santiago Prado
@@ -67,3 +64,7 @@ Las presentaciones de los proyectos finales se llevarán a cabo el **miércoles 
 - "Simulación electrostática en 1D; Aparición de ondas de plasma."
 -Ivan Galinsky
 -Carlos Gael Ortiz 
+
+- "Estudio de las ecuaciones de Lotka-Volterra."
+-Gabriela Luna
+-Rodolfo Arturo Gónzalez
