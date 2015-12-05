@@ -23,9 +23,7 @@ Las presentaciones de los proyectos finales se llevarán a cabo el **miércoles 
 -Guillermo Lara
 -Edna Ruiz
 
-- "Soluciones de la ecuación de Shrödinger para paquetes de onda Gaussianos en 1D y 2D; Experimento de la doble rendija 2D."
--Evelyn Camacho
--Jorge Alejandro Amador
+
 
 - "Modelo de Ising en 2D"
 -Miguel Raz
@@ -43,6 +41,10 @@ Las presentaciones de los proyectos finales se llevarán a cabo el **miércoles 
 - "Método de Numerov para la ec. de Schrödinger."
 -Uriel Luviano
 -David Amaro
+
+- "Soluciones de la ecuación de Shrödinger para paquetes de onda Gaussianos en 1D y 2D; Experimento de la doble rendija 2D."
+-Evelyn Camacho
+-Jorge Alejandro Amador
 
 ## Jueves 10 ( de 16 a 19 horas )
 - "Simulación de un Slinky."
