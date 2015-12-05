@@ -5,10 +5,6 @@ Las presentaciones de los proyectos finales se llevarán a cabo el **miércoles 
 
 # Lista de proyectos
 
-- "Método de Numerov para la ec. de Schrödinger."
--Uriel Luviano
--David Amaro
-
 
 
 - "Estudio de las ecuaciones de Lotka-Volterra."
@@ -43,6 +39,10 @@ Las presentaciones de los proyectos finales se llevarán a cabo el **miércoles 
 - "Un Método de Diferencias Finitas Aplicado a las Ecuaciones de Navier-Stokes en 2D"
 -Guillermo Lara
 -Edna Ruiz
+
+- "Método de Numerov para la ec. de Schrödinger."
+-Uriel Luviano
+-David Amaro
 
 ## Jueves 10 ( de 16 a 19 horas )
 - "Simulación de un Slinky."
