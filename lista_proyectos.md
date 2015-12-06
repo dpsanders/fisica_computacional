@@ -16,12 +16,6 @@ Las presentaciones de los proyectos finales se llevarán a cabo el **miércoles 
 -Dalia Gutiérrez
 -Blas Kolic
 
-- "Un Método de Diferencias Finitas Aplicado a las Ecuaciones de Navier-Stokes en 2D"
--Guillermo Lara
--Edna Ruiz
-
-
-
 - "Modelo de Ising en 2D"
 -Miguel Raz
 
