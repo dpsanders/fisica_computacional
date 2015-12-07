@@ -1,6 +1,6 @@
 # Fecha para presentaciones de proyectos finales
 
-Las presentaciones de los proyectos finales se llevarán a cabo el **miércoles 9 y el jueves 10 de diciembre, de 10 a 13 horas**, en la aula usual. Si no vas a estar en estas fechas, agenda por separado otra fecha con David.
+Las presentaciones de los proyectos finales se llevarán a cabo el **miércoles 9 de 9 a 12 hrs y el jueves 10 de diciembre de 16 a 19 hrs**, en la aula usual. Si no vas a estar en estas fechas, agenda por separado otra fecha con David.
 
 
 # Lista de proyectos
@@ -11,16 +11,9 @@ Las presentaciones de los proyectos finales se llevarán a cabo el **miércoles 
 -Pedro Mercado
 -Santiago Prado
 
-- "Simulación de N-Cuerpos usando arboles"
--Ilya Sandoval
--Dalia Gutiérrez
--Blas Kolic
-
-- "Modelo de Ising en 2D"
--Miguel Raz
 
 # Proyectos con fecha asignada
-## Miercoles 9 ( de 10 a 13 horas )
+## Miercoles 9 ( de 9 a 12 horas )
 - "Método de Shooting: Aplicaciones"
 -Diego Domínguez
 -Rodrigo Fritz
@@ -37,14 +30,23 @@ Las presentaciones de los proyectos finales se llevarán a cabo el **miércoles 
 -Evelyn Camacho
 -Jorge Alejandro Amador
 
+- "Simulación de N-Cuerpos usando arboles"
+-Ilya Sandoval
+-Dalia Gutiérrez
+-Blas Kolic
+
+- "Modelo de Ising en 2D"
+-Miguel Raz
+
+
 ## Jueves 10 ( de 16 a 19 horas )
 - "Simulación de un Slinky."
 -Chistian Ladrón de Guevara
--Antonio Galeote 
+-Antonio Galeote
 -Nicolás Diaz
 
 - "Análisis de soluciones a la ec. de Burgers."
--Diego Martinez Cara 
+-Diego Martinez Cara
 -Micaela Raga
 
 - "Plegamiento de proteínas en 2D usando Monte Carlo."
@@ -57,7 +59,7 @@ Las presentaciones de los proyectos finales se llevarán a cabo el **miércoles 
 
 - "Simulación electrostática en 1D; Aparición de ondas de plasma."
 -Ivan Galinsky
--Carlos Gael Ortiz 
+-Carlos Gael Ortiz
 
 - "Estudio de las ecuaciones de Lotka-Volterra."
 -Gabriela Luna
